@@ -1,3 +1,3 @@
-# Powershell-Partition-Database
+# Powershell Partition Manager
 
-Powershell script that manages a text-based database of disk partitions.
+A Powershell text-based partition manager. This is a class project done to learn Powershell.
